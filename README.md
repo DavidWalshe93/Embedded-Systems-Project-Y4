@@ -9,5 +9,5 @@ localization timing for different time zones and calender functionality.
 On a more technical decription this project made us of the Freescale(NXP) KL26Z Freedom board which hosts a ARM 32-bit core. 
 In this project I made use of numerous embedded perphirals such as a dedicated RTC, interrupts and timers.
 
-This project took me 4 weeks to complete.  
+This project took me four weeks to complete.  
  
